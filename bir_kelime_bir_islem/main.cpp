@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  yazilim_yapimi_bir_kelime_bir_islem
+//  bir_kelime_bir_islem
 //
 //  Created by Çağatay KALKAN on 28.04.2023.
 //
